@@ -34,5 +34,7 @@ Now, while colors have changed, population increased across countries, and in re
 Granted, many things could change between 2020 and 2100, and WPP projections are revised regularly. So maybe China will see an increase in its cartogram size by 2100 after all.
 
 Resources:
+
 World Population Prospects: https://population.un.org/wpp/
+
 Natural Earth shapefile: https://www.naturalearthdata.com
